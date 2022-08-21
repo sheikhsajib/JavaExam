@@ -1,4 +1,4 @@
-package maxmintest;
+package javaexam;
 
 import java.util.Scanner;
 
